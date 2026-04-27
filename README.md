@@ -1,5 +1,5 @@
 # 🛒 AI-Powered Personalized Shopping Assistant
-## Capstone Project #4 - Retail & E-commerce
+## 
 
 **Score: 100/100** | **Status: Production Ready**
 
@@ -41,7 +41,6 @@ capstone-shopping-assistant/
 ```
 
 **Live Demo:** http://shopping-assistant.streamlit.app  
-**GitHub:** github.com/yourusername/shopping-assistant
+**GitHub:** https://github.com/rakesh007-DS/Personalized-Shopping-Assistant-using-LLMs-and-RAGs
 
----
-**Capstone Project Submission - Certificate Ready**
+
